@@ -11,13 +11,13 @@ A simple and elegant weather application that provides current weather informati
 - Shows different icons based on weather conditions (Clear, Clouds, Rain, Mist, Drizzle)
 - Responsive design for mobile and desktop
 
-##Set up the OpenWeather API key:
+## Set up the OpenWeather API key:
 
 Go to the OpenWeather API website and sign up or log in to get your API key.
 Open the logic.js file in your code editor.
 Replace YOUR_API_KEY_HERE with your actual OpenWeather API key
 
-##Technologies Used
+## Technologies Used
 
 - HTML5: For structuring the web page.
 - CSS3: For styling the app.
