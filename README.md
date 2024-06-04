@@ -13,9 +13,9 @@ A simple and elegant weather application that provides current weather informati
 
 ## Set up the OpenWeather API key:
 
-Go to the OpenWeather API website and sign up or log in to get your API key.
-Open the logic.js file in your code editor.
-Replace YOUR_API_KEY_HERE with your actual OpenWeather API key
+- Go to the OpenWeather API website and sign up or log in to get your API key.
+- Open the logic.js file in your code editor.
+- Replace YOUR_API_KEY_HERE with your actual OpenWeather API key
 
 ## Technologies Used
 
